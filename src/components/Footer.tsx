@@ -35,7 +35,7 @@ export const Footer = () => {
                 Concierge 
                 <ArrowUpRight className="w-3 h-3 opacity-50 group-hover:opacity-100 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all" />
               </a>
-              <a href="#" className="text-sm font-sans text-cream/70 hover:text-white transition-colors flex items-center gap-1 group">
+              <a href="https://instagram.com/manvv007" className="text-sm font-sans text-cream/70 hover:text-white transition-colors flex items-center gap-1 group">
                 Instagram 
                 <ArrowUpRight className="w-3 h-3 opacity-50 group-hover:opacity-100 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all" />
               </a>
